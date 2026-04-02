@@ -1,3 +1,5 @@
+
+
 📌 Real-Time Social Media Comment Abuse Detection
 🚀 Overview
 
@@ -27,25 +29,25 @@ TF-IDF Vectorizer → Text feature extraction
 Logistic Regression → Classification model
 Regex & String Processing → Text cleaning
 🔄 Workflow
-1️⃣ Data Preprocessing
-Convert text to lowercase
-Remove:
-URLs
-HTML tags
-Punctuation
-Numbers
-Clean unwanted characters
-2️⃣ Feature Extraction
-Used TF-IDF Vectorization
-Limited to 5000 features for efficiency
-3️⃣ Model Training
-Algorithm: Logistic Regression
-Train-test split: 80% training / 20% testing
-4️⃣ Model Evaluation
-Metrics used:
-Accuracy Score
-Classification Report
-5️⃣ Prediction System
+  1️⃣ Data Preprocessing
+      Convert text to lowercase
+      Remove:
+      URLs
+      HTML tags
+      Punctuation
+      Numbers
+      Clean unwanted characters
+  2️⃣ Feature Extraction
+      Used TF-IDF Vectorization
+      Limited to 5000 features for efficiency
+  3️⃣ Model Training
+      Algorithm: Logistic Regression
+      Train-test split: 80% training / 20% testing
+  4️⃣ Model Evaluation
+      Metrics used:
+      Accuracy Score
+      Classification Report
+  5️⃣ Prediction System
 
 Custom function for real-time prediction:
 
@@ -73,8 +75,10 @@ Deploy as:
 Web App (Flask / Streamlit)
 API service
 Improve dataset balance
+
 📌 Use Cases
-Social media moderation
-Comment filtering systems
-Online community management
-Chat applications
+  Social media moderation
+  Comment filtering systems
+  Online community management
+  Chat applications
+
