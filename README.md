@@ -5,7 +5,6 @@
 
 This project focuses on detecting abusive or toxic comments on social media platforms using Natural Language Processing (NLP) and Machine Learning.
 
-The model classifies user comments into:
 
 ✅ Non-Toxic
 ❌ Toxic
